@@ -15,7 +15,7 @@ window.addEventListener('load', function () {
                         <h3> ${response[i].firstName} ${response[i].lastName}</h3>
                         <ul>
                             <li>Hours in space: ${response[i].hoursInSpace}</li>
-                             <li>Active: ${response[i].active}</li>
+                             <li>Active: ${response[i].active}}</li>
                             <li>Skills: ${response[i].skills}</li>
                         </ul>
                     </div>
